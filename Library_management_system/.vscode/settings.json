@@ -1,0 +1,5 @@
+{
+"python.analysis.extraPaths":[
+    "/Users/apple/anaconda3/envs/rawnn/lib/python3.11/site-packages"
+]
+}
